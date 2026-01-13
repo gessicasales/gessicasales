@@ -76,18 +76,7 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/480/amazon-web-services.png" alt="amazon-web-services"/>
-    
-<br/>
-<br/>
 
-### 📊 Estatísticas
-
-<img 
-    align="left" 
-    alt="Git Hub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gessicasales&show_icons=true&theme=merko%include_all_commits=true&locale=pt-br"/>
 
 
 
