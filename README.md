@@ -30,12 +30,7 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src=<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+       src=<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
 </svg>"
  
 <img 
