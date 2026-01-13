@@ -31,8 +31,8 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
 
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Power Bi" 
+    title="Power Bi"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/480/power-bi-2021.png" alt="power-bi-2021"/>
@@ -40,39 +40,39 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
  
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Excel" 
+    title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/480/microsoft-excel-2025.png" alt="microsoft-excel-2025"/>
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
     
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Pyhton"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/480/python--v1.png" alt="python--v1"/>
     
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Azure"
+    title="Azure" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
     
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="AWS" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/480/amazon-web-services.png" alt="amazon-web-services"/>
