@@ -35,7 +35,7 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/480/power-bi.png" alt="power-bi"/>
+    src="https://img.icons8.com/color/480/power-bi-2021.png" alt="power-bi-2021"/>
 
  
 <img 
