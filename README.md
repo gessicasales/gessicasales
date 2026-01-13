@@ -75,8 +75,8 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+    src="https://img.icons8.com/color/480/amazon-web-services.png" alt="amazon-web-services"/>
+    
 <img 
     align="left" 
     alt="PHP" 
