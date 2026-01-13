@@ -35,7 +35,7 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src=<img alt="svgImg" src=<img width="480" height="480" src="https://img.icons8.com/color/480/power-bi.png" alt="power-bi"/>
+    src=<img alt="svgImg" src=<img width="120" height="120" src="https://img.icons8.com/color/480/power-bi.png" alt="power-bi"/>
 />
 
  
