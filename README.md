@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gessica Sales
 
-**`Desenvolvedora FullStack`**
+**`Analista de Dados`**
 
 Me chamo Gessica, tenho 34 anos e resido na cidade de São Paulo. Sou profissional com mais de 10 anos de experiência em telecomunicações, atuando em monitoramento e suporte de redes de transmissão SDH e DWDM, com forte atuação em ambientes críticos e orientados a indicadores.
 
@@ -34,9 +34,9 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    style="padding-right: 10px;"
+    src="https://icons8.com.br/icon/y5utoW4FUM92/microsoft-excel-2025"
+ 
 <img 
     align="left" 
     alt="CSS" 
