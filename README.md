@@ -29,9 +29,8 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
        src=<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
-</svg>"
+
  
 <img 
     align="left" 
