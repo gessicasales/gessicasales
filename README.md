@@ -44,8 +44,7 @@ Atualmente, estou em transição para a área de Análise de Dados, aplicando fe
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+    src="https://img.icons8.com/color/480/microsoft-excel-2025.png" alt="microsoft-excel-2025"/>
 <img 
     align="left" 
     alt="JavaScript" 
